@@ -118,27 +118,9 @@ A digital platform for event decoration showcases, galleries, video displays, cu
 
 ---
 
-<!-- ===== GITHUB ANALYTICS ===== -->
-
-## `04` / GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikjaiswal-tech&show_icons=true&hide_border=true&bg_color=06152B&title_color=60A5FA&text_color=DBEAFE&icon_color=38BDF8&ring_color=2563EB&include_all_commits=true&count_private=false" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaiswal-tech&layout=compact&hide_border=true&bg_color=06152B&title_color=60A5FA&text_color=DBEAFE&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com/?user=pratikjaiswal-tech&hide_border=true&background=06152B&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=DBEAFE&currStreakNum=DBEAFE&sideNums=DBEAFE&dates=94A3B8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 <!-- ===== DEVELOPER QUOTE ===== -->
 
-## `05` / DEVELOPER MINDSET
+## `04` / DEVELOPER MINDSET
 
 <div align="center">
 
@@ -150,7 +132,7 @@ A digital platform for event decoration showcases, galleries, video displays, cu
 
 <!-- ===== CONNECT ===== -->
 
-## `06` / CONNECT WITH ME
+## `05` / CONNECT WITH ME
 
 <div align="center">
 
