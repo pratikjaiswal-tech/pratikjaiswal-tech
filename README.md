@@ -1,22 +1,183 @@
+ <!-- ===== PRATIK JAISWAL | DARK BLUE PROFILE ===== -->
 
-# 💫 About Me:
-CSE Undergrad | Software Engineering • AI/ML • Backend Architecture | Python, Java, C++, Django & React | Building Scalable Systems, Intelligent Applications & Data-Driven Solutions.<br>
+<!-- ===== PREMIUM DARK BLUE HERO ===== -->
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06152B,50:0B2545,100:1D4ED8&height=220&section=header&text=PRATIK%20JAISWAL&fontSize=46&fontColor=DBEAFE&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20BACKEND%20SYSTEMS&descSize=14&descAlignY=56&descColor=7DD3FC" alt="Pratik Jaiswal — Software Engineering, AI/ML and Backend Systems"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivanshjaiswaal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratik-jaiswal-mist) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikjaiswal8085@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pratikjaiswal-tech&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pratikjaiswal-tech&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratikjaiswal-tech&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Building Intelligent Systems. Engineering Real Solutions.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*Computer Science & Engineering Undergraduate*
+
+<a href="https://github.com/pratikjaiswal-tech">
+  <img src="https://img.shields.io/badge/GitHub-pratikjaiswal--tech-0B2545?style=for-the-badge&logo=github&logoColor=DBEAFE" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pratik-jaiswal-mist">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B2545?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=pratikjaiswal-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===== ABOUT ME ===== -->
+
+## `01` / ABOUT ME
+
+I'm a Computer Science and Engineering undergraduate interested in software engineering, artificial intelligence, machine learning, backend development, and scalable application architecture.
+
+I enjoy turning ideas into practical solutions, exploring emerging technologies, and building projects that solve real-world problems.
+
+- **Focus Areas:** Software Engineering, AI/ML, Backend Development
+- **Languages:** Python, Java, C++, JavaScript
+- **Frameworks:** Django, React
+- **Data & Tools:** NumPy, Pandas, Git, GitHub
+- **Current Interests:** Intelligent applications, system design, automation, and secure software
+
+---
+
+<!-- ===== FEATURED PROJECTS ===== -->
+
+## `02` / PROJECTS & INNOVATION
+
+<div align="center">
+
+<a href="https://github.com/pratikjaiswal-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/01_AI_SCHOLARSHIP_SYSTEM-06152B?style=for-the-badge&logo=github&logoColor=A5B4FC" alt="AI Scholarship and Fellowship Management System"/>
+</a>
+
+**AI-Enabled Scholarship & Fellowship Management System**
+
+An AI-focused platform concept for improving scholarship discovery, application workflows, document processing, and access to opportunities for Scheduled Tribes.
+
+<br/>
+
+<a href="https://github.com/pratikjaiswal-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/02_PRAHAR-06152B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Prahar"/>
+</a>
+
+**Prahar — Hyperlocal Flash Flood Early Warning**
+
+A disaster-management platform concept focused on hyperlocal flash-flood prediction, risk awareness, and early-warning communication.
+
+<br/>
+
+<a href="https://github.com/pratikjaiswal-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/03_SS_DECOR-06152B?style=for-the-badge&logo=react&logoColor=60A5FA" alt="SS Decor and Event Planner"/>
+</a>
+
+**SS Decor & Event Planner**
+
+A digital platform for event decoration showcases, galleries, video displays, customer inquiries, and booking workflows.
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/pratikjaiswal-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  </a>
+</p>
+
+---
+
+<!-- ===== TECH STACK ===== -->
+
+## `03` / TECHNOLOGY STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-0B2545?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-0B2545?style=for-the-badge&logo=openjdk&logoColor=60A5FA" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0B2545?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-0B2545?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-0B2545?style=for-the-badge&logo=html5&logoColor=FB923C" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0B2545?style=for-the-badge&logo=css3&logoColor=60A5FA" alt="CSS3"/>
+
+### Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/Django-0B2545?style=for-the-badge&logo=django&logoColor=34D399" alt="Django"/>
+<img src="https://img.shields.io/badge/React-0B2545?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React"/>
+<img src="https://img.shields.io/badge/NumPy-0B2545?style=for-the-badge&logo=numpy&logoColor=60A5FA" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0B2545?style=for-the-badge&logo=pandas&logoColor=A5B4FC" alt="Pandas"/>
+
+### Data, Platforms & Tools
+
+<img src="https://img.shields.io/badge/Git-0B2545?style=for-the-badge&logo=git&logoColor=F87171" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0B2545?style=for-the-badge&logo=github&logoColor=DBEAFE" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Supabase-0B2545?style=for-the-badge&logo=supabase&logoColor=34D399" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Firebase-0B2545?style=for-the-badge&logo=firebase&logoColor=FBBF24" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Vercel-0B2545?style=for-the-badge&logo=vercel&logoColor=DBEAFE" alt="Vercel"/>
+
+</div>
+
+---
+
+<!-- ===== GITHUB ANALYTICS ===== -->
+
+## `04` / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikjaiswal-tech&show_icons=true&hide_border=true&bg_color=06152B&title_color=60A5FA&text_color=DBEAFE&icon_color=38BDF8&ring_color=2563EB&include_all_commits=true&count_private=false" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikjaiswal-tech&layout=compact&hide_border=true&bg_color=06152B&title_color=60A5FA&text_color=DBEAFE&langs_count=8" alt="Most used languages"/>
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=pratikjaiswal-tech&hide_border=true&background=06152B&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=DBEAFE&currStreakNum=DBEAFE&sideNums=DBEAFE&dates=94A3B8" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<!-- ===== DEVELOPER QUOTE ===== -->
+
+## `05` / DEVELOPER MINDSET
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+</div>
+
+---
+
+<!-- ===== CONNECT ===== -->
+
+## `06` / CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/pratikjaiswal-tech">
+  <img src="https://img.shields.io/badge/GitHub-06152B?style=for-the-badge&logo=github&logoColor=DBEAFE" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pratik-jaiswal-mist">
+  <img src="https://img.shields.io/badge/LinkedIn-06152B?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/shivanshjaiswaal/">
+  <img src="https://img.shields.io/badge/Instagram-06152B?style=for-the-badge&logo=instagram&logoColor=A5B4FC" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:pratikjaiswal8085@gmail.com">
+  <img src="https://img.shields.io/badge/Email-06152B?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pratikjaiswal-tech&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+**Engineering with purpose. Learning without limits. Building for impact.**
+
+</div>
+
+<!-- ===== END ===== -->
